@@ -1,0 +1,6 @@
+C:\Users\anayo\source\repos\CalcularPulsaciones\ENTTY\bin\Debug\ENTTY.dll
+C:\Users\anayo\source\repos\CalcularPulsaciones\ENTTY\bin\Debug\ENTTY.pdb
+C:\Users\anayo\source\repos\CalcularPulsaciones\ENTTY\obj\Debug\ENTITY.csprojAssemblyReference.cache
+C:\Users\anayo\source\repos\CalcularPulsaciones\ENTTY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\anayo\source\repos\CalcularPulsaciones\ENTTY\obj\Debug\ENTTY.dll
+C:\Users\anayo\source\repos\CalcularPulsaciones\ENTTY\obj\Debug\ENTTY.pdb

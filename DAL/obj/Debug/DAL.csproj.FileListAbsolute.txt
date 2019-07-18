@@ -1,0 +1,13 @@
+C:\Users\anayo\source\repos\CalcularPulsaciones\DAL\bin\Debug\DAL.dll
+C:\Users\anayo\source\repos\CalcularPulsaciones\DAL\bin\Debug\DAL.pdb
+C:\Users\anayo\source\repos\CalcularPulsaciones\DAL\bin\Debug\ENTTY.dll
+C:\Users\anayo\source\repos\CalcularPulsaciones\DAL\bin\Debug\ENTTY.pdb
+C:\Users\anayo\source\repos\CalcularPulsaciones\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\anayo\source\repos\CalcularPulsaciones\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\anayo\source\repos\CalcularPulsaciones\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\anayo\source\repos\CalcularPulsaciones\DAL\obj\Debug\DAL.dll
+C:\Users\anayo\source\repos\CalcularPulsaciones\DAL\obj\Debug\DAL.pdb
+C:\Users\anayo\source\repos\CalcularPulsaciones\DAL\bin\Debug\Database1.mdf
+C:\Users\anayo\source\repos\CalcularPulsaciones\DAL\bin\Debug\Database1_log.ldf
+C:\Users\anayo\source\repos\CalcularPulsaciones\DAL\bin\Debug\itextsharp.dll
+C:\Users\anayo\source\repos\CalcularPulsaciones\DAL\bin\Debug\itextsharp.xml

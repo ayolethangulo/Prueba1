@@ -1,0 +1,14 @@
+C:\Users\anayo\source\repos\CalcularPulsaciones\CalcularPulsaciones\bin\Debug\CalcularPulsaciones.exe.config
+C:\Users\anayo\source\repos\CalcularPulsaciones\CalcularPulsaciones\bin\Debug\CalcularPulsaciones.exe
+C:\Users\anayo\source\repos\CalcularPulsaciones\CalcularPulsaciones\bin\Debug\CalcularPulsaciones.pdb
+C:\Users\anayo\source\repos\CalcularPulsaciones\CalcularPulsaciones\obj\Debug\CalcularPulsaciones.csproj.CoreCompileInputs.cache
+C:\Users\anayo\source\repos\CalcularPulsaciones\CalcularPulsaciones\obj\Debug\CalcularPulsaciones.exe
+C:\Users\anayo\source\repos\CalcularPulsaciones\CalcularPulsaciones\obj\Debug\CalcularPulsaciones.pdb
+C:\Users\anayo\source\repos\CalcularPulsaciones\CalcularPulsaciones\bin\Debug\BLL.dll
+C:\Users\anayo\source\repos\CalcularPulsaciones\CalcularPulsaciones\bin\Debug\ENTTY.dll
+C:\Users\anayo\source\repos\CalcularPulsaciones\CalcularPulsaciones\bin\Debug\DAL.dll
+C:\Users\anayo\source\repos\CalcularPulsaciones\CalcularPulsaciones\bin\Debug\BLL.pdb
+C:\Users\anayo\source\repos\CalcularPulsaciones\CalcularPulsaciones\bin\Debug\ENTTY.pdb
+C:\Users\anayo\source\repos\CalcularPulsaciones\CalcularPulsaciones\bin\Debug\DAL.pdb
+C:\Users\anayo\source\repos\CalcularPulsaciones\CalcularPulsaciones\obj\Debug\CalcularPulsaciones.csprojAssemblyReference.cache
+C:\Users\anayo\source\repos\CalcularPulsaciones\CalcularPulsaciones\obj\Debug\CalcularPulsaciones.csproj.CopyComplete
